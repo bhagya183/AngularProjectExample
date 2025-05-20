@@ -57,3 +57,47 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+<br> <br> 
+<b> Output: </b>
+<br> Home => <br>
+![image](https://github.com/user-attachments/assets/cc554685-ff10-42cd-a428-af680f2fa881)
+<br> 
+![image](https://github.com/user-attachments/assets/54f2f34c-cf38-4180-9f6c-5504b76468af)
+<br>
+![image](https://github.com/user-attachments/assets/337073d1-1661-4a6e-b831-74af32f351c4)
+<br>
+<br>
+
+About => 
+<br>
+![image](https://github.com/user-attachments/assets/f1bff0b5-ce5b-4859-851e-7e1fb0e96c3a)
+
+<br>
+![image](https://github.com/user-attachments/assets/091b028b-2ba5-4e57-9f01-b3f7a10860e9)
+
+<br><br>
+
+Contact =>
+<br>
+![image](https://github.com/user-attachments/assets/f1034ee3-b5d2-4549-885e-53e071f72b83)
+
+<br> <br>
+
+Login => 
+<br>
+![image](https://github.com/user-attachments/assets/4bf6ac6d-42bd-4740-886b-42dc4487dd66)
+
+<br> <br>
+
+
+Register =>
+<br>
+![image](https://github.com/user-attachments/assets/82e71f6d-cb07-4e51-b7b1-fe0ea78daa06)
+
+<br>
+
+
+
+
+
